@@ -119,7 +119,7 @@ nav ul li a:hover::after{
     transition: 1.0s;
 
 }
-.tab-links:hover{
+.tab-links::hover{
 background-color: green;
 }
 .tab-links.active-link::after{
